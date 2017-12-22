@@ -30,4 +30,4 @@ Go to [Google API Console](https://console.developers.google.com), create a proj
 > npm start
 ```
 
-The demo can be seen at: https://5ervant.github.io/youtube-video-player/
+Live preview can be seen at: https://5ervant.github.io/youtube-video-player/
