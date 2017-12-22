@@ -16,7 +16,7 @@ Checkout this repo and install dependencies with the following:
 ```
 
 #### Not Familiar with Git?
-Click [here](https://github.com/5ervant/youtube-video-player) then download the .zip file. Extract the contents of the zip file, then open your terminal, change to the project directory. And install dependencies with the following:
+Click [here](https://github.com/5ervant/youtube-video-player/archive/master.zip) to download the .zip file. Extract the contents of the zip file, then open your terminal, change to the project directory. And install dependencies with the following:
 
 ```
 > npm install
@@ -29,3 +29,5 @@ Go to [Google API Console](https://console.developers.google.com), create a proj
 ```
 > npm start
 ```
+
+The demo can be seen at: https://5ervant.github.io/youtube-video-player/
