@@ -16,15 +16,15 @@ Checkout this repo and install dependencies with the following:
 ```
 
 #### Not Familiar with Git?
-Click [here](https://github.com/5ervant/youtube-video-player/archive/master.zip) to download the .zip file. Extract the contents of the zip file, then open your terminal, change to the project directory. And install dependencies with the following:
+Click [here](https://github.com/5ervant/youtube-video-player/archive/master.zip) to download the .zip file. Extract the contents of the zip file, then open your terminal, change to the project directory, and install dependencies by running:
 
 ```
 > npm install
 ```
 
-### Applying "YouTube Data API v3" ###
+### Applying "YouTube Data API v3" key ###
 
-Go to [Google API Console](https://console.developers.google.com), create a project, enable "YouTube Data API v3" and grab your API key. Open */youtube-video-player/src/index.js* and change the `API_KEY` with your API key, then start the gulp process with:
+Go to [Google API Console](https://console.developers.google.com), create a project, enable "YouTube Data API v3" and grab your API key. Open */src/index.js* and change the `API_KEY` with your key. And open your terminal, change to the project directory, then start the gulp process with:
 
 ```
 > npm start

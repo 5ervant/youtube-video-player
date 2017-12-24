@@ -6,7 +6,7 @@ import SearchBar from './components/search_bar';
 import VideoList from './components/video_list';
 import VideoDetail from './components/video_detail';
 
-// "YouTube Data API v3" key
+// Your "YouTube Data API v3" key
 const API_KEY = 'AIzaSyAKRcmw6hYwCtK3unePrrI3arBoKsRNplA';
 
 class App extends Component {
