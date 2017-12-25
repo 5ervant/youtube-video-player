@@ -24,7 +24,7 @@ Click [here](https://github.com/5ervant/youtube-video-player/archive/master.zip)
 
 ### Applying "YouTube Data API v3" key ###
 
-Go to [Google API Console](https://console.developers.google.com), create a project, enable "YouTube Data API v3" and grab your API key. Open */src/index.js* and change the `API_KEY` with your key. And open your terminal, change to the project directory, then start the gulp process with:
+Go to [Google API Console](https://console.developers.google.com), create a project, enable "YouTube Data API v3" and grab your API key. Open */src/index.js* and change the `API_KEY` value with your key. And open your terminal, change to the project directory, then start the gulp process with:
 
 ```
 > npm start
